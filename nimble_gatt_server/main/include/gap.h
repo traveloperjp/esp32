@@ -1,0 +1,1 @@
+int gap_init(void);

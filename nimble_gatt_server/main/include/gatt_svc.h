@@ -1,0 +1,1 @@
+int gatt_svc_init(void);
